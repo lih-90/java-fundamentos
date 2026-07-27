@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Media2 {
+public class MediaComPesos {
 
     public static void main(String[] args) {
 
