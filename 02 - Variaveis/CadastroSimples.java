@@ -1,4 +1,4 @@
-public class CadastroDeCliente {
+public class CadastroSimples {
 	public static void main(String[] args) {
 	    
 	    String nome = "Ana Souza";
