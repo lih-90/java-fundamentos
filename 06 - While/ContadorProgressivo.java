@@ -12,15 +12,15 @@ public class ContadorProgressivo {
     System.out.println("Digite um número: ");
     numero = sc.nextInt();
 
-    if (numero == 0) {
+    if (numero <= 0) {
       System.out.println("O número deve ser maior do que 0.");
+      sc.close();
+      return;
     }
 
     while (contador < numero) {
-
       contador++;
       System.out.println(contador);
-
     }
 
     sc.close();
