@@ -9,6 +9,7 @@ Este repositório reúne os exercícios desenvolvidos durante meus estudos da li
 - ✅ Operadores
 - ✅ If_Else
 - ✅ Switch
+- ✅ While
 
 ## 🛠 Tecnologias
 
@@ -23,7 +24,7 @@ Consolidar os fundamentos da linguagem Java por meio de exercícios práticos, d
 
 Este repositório será atualizado continuamente com novos conteúdos, incluindo:
 
-- Estruturas de repetição (`while`, `do while`, `for`)
+- Estruturas de repetição (`do while`, `for`)
 - Métodos
 - Vetores
 - Orientação a Objetos
