@@ -10,7 +10,7 @@ public class SomaAteZero {
 
     while (true) {
 
-      System.out.print("Digite um número (0 para sair): ");
+      System.out.print("\nDigite um número (0 para sair): ");
       int numero = sc.nextInt();
 
       if (numero == 0) {
